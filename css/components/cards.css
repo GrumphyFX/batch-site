@@ -1,0 +1,15 @@
+.card img {
+  width: 130px;
+  border-radius: 5px;
+}
+
+.card {
+  width: auto;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.cards {
+  display: inline;
+  margin-bottom: 30px;
+}
